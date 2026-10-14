@@ -1,5 +1,4 @@
-Credit Card Customer & Transaction Analysis | Power BI Portfolio Project
-Project Overview
+Credit Card Customer Analysis 
 This project is a credit card customer and transaction analysis created as a Business Intelligence portfolio project.
 The dashboard was used to understand:
 - revenue performance over time
